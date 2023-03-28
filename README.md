@@ -67,21 +67,8 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://reactjs.org/">CSS</a></li>
   </ul>
 </details>
 
@@ -114,8 +101,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd hello-microverse
+  git clone git@github.com:noelfoka/my-project.git
 ```
 
 ### Install
@@ -123,7 +110,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd my-project
+  cd hello-microverse
   gem install
 ```
 
@@ -149,8 +136,6 @@ To run tests, run the following command:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Noel foka**
 
@@ -200,7 +185,5 @@ I would like to thank Microverse
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
